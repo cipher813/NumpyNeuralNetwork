@@ -1,3 +1,7 @@
+"""
+Inspired by code at https://github.com/MichalDanielDobrzanski/DeepLearningPython
+"""
+
 import random
 import numpy as np
 import pickle
